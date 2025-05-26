@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻Software engineering -Mobile Development- and Flutter Workshop provider<br>💻Learning Flutter and Swift<br>📄I have repos With C++, C, Dart, Kotlin
+👩‍💻Software engineering -Mobile Development- and Flutter Workshop provider<br>💻Learning Flutter and Swift<br>📄I have repos With Dart, Flutter, Kotlin
 
 
 ## 🌐 Socials:
